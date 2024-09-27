@@ -74,7 +74,7 @@ We have to extract the archive we downloaded and put the extracted folder inside
 
 # The Script
 
-I have crated a script to automate all the process of opening the terminal, container, and execute the program, just download the [zip]() and put the CCExtractor.sh file inside the GUI folder.
+I have crated a script to automate all the process of opening the terminal, container, and execute the program, just download the [zip](), put the CCExtractor.sh file inside the GUI folder and modify the line `/home/USERNAME/CONTAINER-HOME/GUI-FOLDER/ccxgui` with your path.
 
 # The Menu Icon
 
