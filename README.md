@@ -45,7 +45,7 @@ Now we can create an ubuntu container (I just used ubuntu, you can use whatever 
 Open the Terminal and paste this command:
 
 ```bash
-distrobox create -i docker.io/ -n ubuntu-ccextractor -H /home/USERNAME/Distrobox/ubuntu-ccextractor/ --hostname uccex --unshare-all
+distrobox create -i docker.io/library/ubuntu:22.04 -n ubuntu-ccextractor -H /home/USERNAME/Distrobox/ubuntu-ccextractor/ --hostname uccex --unshare-all
 ```
 
 Change USERNAME with your username and the path to the folder we have created previously.
