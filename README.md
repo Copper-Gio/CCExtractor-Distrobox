@@ -7,7 +7,7 @@ A quick guide to setup and use CCExtractor (&amp; GUI) through Distrobox
 This guide is intended to give people an alternative way to install CCExtractor GUI for computers that doesn't use system level programs (es.: Fedora Atomic, Universal Blue, etc.) and integrating it with the host system for a beautiful user experience
 
 ### Contents
-
+#
 1. [Requirements](#requirements)
   
 2. [Organize your Host](#organize-your-host)
