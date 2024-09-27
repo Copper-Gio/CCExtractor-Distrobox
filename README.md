@@ -22,7 +22,7 @@ This guide is intended to give people an alternative way to install CCExtractor 
   
 7. [The Menu Icon](#the-menu-icon)
   
-8. [Here you go!](#here-you-go!)
+8. [Here you go!](#here-you-go)
   
 
 ### Requirements
