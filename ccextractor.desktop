@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=
+Type=Application
+Name=CCExtractor
+GenericName=CCExtractor
+Exec=/home/USERNAME/CONTAINER-HOME/GUI-FOLDER/CCExtractor.sh
+Icon=/home/USERNAME/CONTAINER-HOME/GUI-FOLDER/CCExtractor/ccx.png
+NoDisplay=false
+Terminal=true
