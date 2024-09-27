@@ -74,7 +74,7 @@ We have to extract the archive we downloaded and put the extracted folder inside
 
 # The Script
 
-I have crated a script to automate all the process of opening the terminal, container, and execute the program, just download the [zip](), put the CCExtractor.sh file inside the GUI folder and modify the line `/home/USERNAME/CONTAINER-HOME/GUI-FOLDER/ccxgui` with your path.
+I have crated a script to automate all the process of opening the terminal, container, and execute the program, just download the [zip](https://github.com/Copper-Gio/CCExtractor-Distrobox/archive/refs/heads/main.zip), put the CCExtractor.sh file inside the GUI folder and modify the line `/home/USERNAME/CONTAINER-HOME/GUI-FOLDER/ccxgui` with your path.
 
 # The Menu Icon
 
@@ -82,9 +82,9 @@ To make all more beautiful i created the CCExtractor.desktop file
 
 > This type of files are the menu icons you see on your Application menu
 
-1. Download the [file]()
-  
-2. Download the [image](https://ccextractor.org/images/ccx.svg) (from the official website)
+The desktop file is located inside the zip you previously downloaded.
+
+1. Download the [image](https://ccextractor.org/images/ccx.svg) (from the official website) will be used to give an icon to our file
   
 3. [Convert](https://cloudconvert.com/svg-to-png) the image in PNG
   
